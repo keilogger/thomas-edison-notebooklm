@@ -107,7 +107,7 @@ Sua trajetória esteve marcada pela experimentação, desenvolvimento de tecnolo
 | Inovação       | Aplicação ou desenvolvimento de uma ideia que produz valor ou transformação |
 | Experimentação | Processo de testar hipóteses e possibilidades |
 
-## 🔄 Prompts Reutilizáveis
+##  Prompts Reutilizáveis
 
 ### Para resumir um assunto
 
